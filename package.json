@@ -1,0 +1,12 @@
+{
+  "name": "GetProducts",
+  "version": "1.0.0",
+  "description": "Construindo Sexy APIs com serverless",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "Antonio L Ferrador Filho",
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  }
+}
